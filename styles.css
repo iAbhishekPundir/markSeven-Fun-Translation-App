@@ -32,7 +32,7 @@ nav h1 {
 #txt-input {
     margin: auto;
     border-radius: 0.5rem;
-    height: 10vh;
+    height: 8vh;
     width: 60vw;
     padding: 1rem 2rem;
     display: block;
@@ -43,7 +43,7 @@ nav h1 {
 .btn-translate {
     background-color: var(--primary-color);
     padding: 1rem 2rem;
-    margin: 2rem;
+    margin: 1rem;
     font-size: 1rem;
     border: 1px solid black;
     border-radius: 0.5rem;
@@ -65,7 +65,7 @@ nav h1 {
 .output {
     overflow: scroll;
     margin: auto;
-    height: 10vh;
+    height: 8vh;
     width: 60vw;
     border: 1px solid black;
     padding: 1rem 2rem;
