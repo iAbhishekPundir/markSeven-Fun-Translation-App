@@ -2,7 +2,7 @@ var btnInput = document.querySelector(".btn-translate");
 var txtInput = document.querySelector("#txt-input");
 var txtOutput = document.querySelector(".output");
 
-var apiUrl = "https://api.funtranslations.com/translate/dolan.json";
+var apiUrl = "https://api.funtranslations.com/translate/yoda.json";
 
 function generateUrl(input){
     return apiUrl + "?text=" + input;
